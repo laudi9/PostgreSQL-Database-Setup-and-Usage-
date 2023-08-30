@@ -19,5 +19,5 @@ Demonstrated understanding of relational database concepts, including the creati
 Employed the psycopg2 library to seamlessly connect Python applications with PostgreSQL databases.
 Ensured data integrity through thoughtful consideration of data types and constraints when designing tables.
 Practiced constructing and executing SQL queries programmatically to insert data into designated tables.
-Learning Outcome:
+## Learning Outcome:
 Through this project, I deepened my understanding of database management, strengthened my Python programming skills, and gained practical experience in integrating backend systems with databases. This project served as a pivotal stepping stone in my journey to becoming a proficient backend developer with a solid foundation in database connectivity and manipulation using PostgreSQL and Python.
